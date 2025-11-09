@@ -157,7 +157,8 @@ h6 {
   font-size: 30px;
   margin: 0;
   font-weight: 400;
-  color: var(--heading-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: goldenrod;
 }
 
 .header .btn-getstarted,
